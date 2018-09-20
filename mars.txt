@@ -3,3 +3,5 @@ Mars is cold and dry, and there are no potatoes here.
 But we can totally build a biodome.
 
 This will be our tater farm for sure.
+
+We can then create not only tater, but also fries and other potatoes products.
